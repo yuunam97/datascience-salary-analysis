@@ -53,8 +53,6 @@ The dataset used for this analysis was [Data Science Salaries 2023](https://www.
 ![ds-employment-type](https://github.com/yuunam97/datascience-salary-analysis/blob/main/images/ds-employment-type.png?raw=true)
 ![remote-employees](https://github.com/yuunam97/datascience-salary-analysis/blob/main/images/ds-remote-distribution.png?raw=true)
 
-C:\Users\Yuu\Documents\GitHub\datascience-salary-analysis\images\ds-salary-level.png
-
 ### Credits:
 1. [Data Science Salaries 2023](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023/data) dataset.
 2. [DS Salary: Full EDA - by PANNMIE](https://www.kaggle.com/code/tumpanjawat/ds-salary-full-eda-geo-cluster-xgboost) for guidance. 
